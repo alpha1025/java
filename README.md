@@ -1,11 +1,7 @@
-### Java Spring template project
+This is an example project used to demonstrate how to deploy a [Spring
+Boot](https://projects.spring.io/spring-boot/) application to [Cloud
+Foundry (CF)](https://www.cloudfoundry.org/) with GitLab CI/CD using the [Continuous
+Deployment](https://about.gitlab.com/2016/08/05/continuous-integration-delivery-and-deployment-with-gitlab/#continuous-deployment)
+method.
 
-This project is based on a GitLab [Project Template](https://docs.gitlab.com/ee/gitlab-basics/create-project.html).
-
-Improvements can be proposed in the [original project](https://gitlab.com/gitlab-org/project-templates/spring).
-
-### CI/CD with Auto DevOps
-
-This template is compatible with [Auto DevOps](https://docs.gitlab.com/ee/topics/autodevops/).
-
-If Auto DevOps is not already enabled for this project, you can [turn it on](https://docs.gitlab.com/ee/topics/autodevops/#enabling-auto-devops) in the project settings.
+See the [Deploy a Spring Boot application to Cloud Foundry with GitLab CI/CD](https://docs.gitlab.com/ee/ci/examples/doc/ci/examples/deploy-spring-boot-to-cloud-foundry/index.md.html) article for more information.
